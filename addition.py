@@ -1,5 +1,5 @@
 A= int(input())
-sum=0
+sum=1
 for i in range(A):
   y=int(input())
   sum+=y
